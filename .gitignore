@@ -1,0 +1,12 @@
+node_modules/
+client/dist/
+.env
+.env.*
+!.env.example
+.cache/
+.local-data/
+.vercel/
+coverage/
+*.log
+.DS_Store
+
