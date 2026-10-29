@@ -1,4 +1,4 @@
-# ApplyTrack — Internship & Job Application Tracker
+# ApplyTrack | Internship & Job Application Tracker
 
 A full-stack MERN application that brings a job search into one calm, organized workspace. Built with React, Vite, Tailwind CSS, Express, MongoDB, and secure JWT authentication.
 
